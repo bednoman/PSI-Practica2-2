@@ -89,6 +89,7 @@
 
       return {
         personas,
+        persona,
         agregarPersona,
         eliminarPersona,
         actualizarPersona,
